@@ -1,4 +1,8 @@
-[{<<"erl_varint">>,
+[{<<"erl_multibase">>,
+  {git,"git://github.com/emfa/erl_multibase.git",
+       {ref,"8c28385c9afbc466371b31a68c7f776c013ffbeb"}},
+  0},
+ {<<"erl_varint">>,
   {git,"git://github.com/emfa/erl_varint.git",
-       {ref,"41100e4803cad5fce2db15202123ba0f9cb9d23f"}},
+       {ref,"867dc54d441f7073fecb17283d20503e01ed6bc2"}},
   0}].
